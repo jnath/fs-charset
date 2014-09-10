@@ -1,0 +1,30 @@
+{
+  "name": "fsCharset",
+  "version": "0.0.0",
+  "description": "get file with is own Charset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnath/fsCharset.git"
+  },
+  "keywords": [
+    "fs",
+    "charset",
+    "iconv-lite",
+    "file"
+  ],
+  "author": "jonathan faivre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnath/fsCharset/issues"
+  },
+  "homepage": "https://github.com/jnath/fsCharset",
+  "dependencies": {
+    "chardet": "0.0.8",
+    "iconv-lite": "^0.4.4",
+    "strbuf": "0.0.0"
+  }
+}
